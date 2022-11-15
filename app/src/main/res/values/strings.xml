@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Babble</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="online">Online</string>
+    <string name="team_members">Team Members</string>
+    <string name="team_members_names">Afnan Hudli | 2AG19CS001\nAfran Davalbhai | 2AG19CS002\nParvez Pinjari| 2AG19CS043\nTanuja Shinde | 2AG19CS083</string>
+</resources>
